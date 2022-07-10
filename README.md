@@ -11,9 +11,12 @@ npm update #
 
 ##
 
-npm install express express-handlebars body-parser sequelize 
+npm install express express-handlebars body-parser sequelize sqlite
 
-npm install sqlite3@5.0.0    este deu erro
+##  observação
 
-npm install sqlite3 --build-from-source   este deu erro
+para instalação do Sqlite , foi necessario baixar a versão do NodeJs para v12.16.1
+
+
+
 
