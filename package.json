@@ -12,7 +12,7 @@
     "dev",
     "oportunity"
   ],
-  "author": "Matheus <matheusbudkewiczbattisti@gmail.com> (http://www.horadecodar.com.br/)",
+  "author": "Marcos Lanzoni",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.20.0",
