@@ -25,3 +25,10 @@ https://sqlitebrowser.org/
 ## ver esse tutorial
 
 https://www.luiztools.com.br/post/tutorial-de-crud-com-node-js-sequelize-e-sqlite/
+
+
+##  estudar sobre nvm
+
+https://github.com/coreybutler/nvm-windows
+
+
