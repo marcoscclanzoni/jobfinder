@@ -1,14 +1,13 @@
 const express = require("express");
 const app = express();
-const db = require("./db/connection");
+console.log("testando aplicação em tempo real");
+var num1 =123423423423423234324;
+var num2 =223434;
+var soma 
 
-const PORT = 3000;
+console.log(num1);
 
-app.listen(PORT, function () {
-  console.log("O Express esta rodando na porta ${PORT}");
-});
-// ROTA
+console.log(num2);
+console.log(num1*num2);
 
-app.get("/", (req, res) => {
-  res.send("Esta funcionado nodemom 2022");
-});
+
